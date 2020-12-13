@@ -1,0 +1,5 @@
+ssh iz11ocuc@faui04m.cs.fau.de
+addpackage tensorflow
+nvidia-smi
+scp -r iz11ocuc@faui04m.cs.fau.de:/proj/ciptmp/iz11ocuc/out /home/eckertdk/Desktop
+ncdu

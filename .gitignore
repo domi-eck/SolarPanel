@@ -1,0 +1,10 @@
+out/
+__pycache__/
+.idea/
+out/
+train/__pycache__/
+model/__pycache__/
+evaluation/__pycache__/
+data/__pycache__/
+data/*
+venv/
